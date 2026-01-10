@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Example: Local PDF",
+    "url": "./files/manual.pdf",
+    "icon": "📄"
+  },
+  {
+    "name": "Example: Folder",
+    "url": "./files/",
+    "icon": "📁"
+  },
+  {
+    "name": "Example: Website",
+    "url": "https://example.com",
+    "icon": "🌐"
+  }
+]
