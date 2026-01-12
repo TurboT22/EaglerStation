@@ -2,16 +2,21 @@
   {
     "name": "PremiumDragonv2",
     "url": "PremiumDragonv2.html",
-    "icon": "📄"
+    "icon": "⭐"
   },
   {
-    "name": "Example: Folder",
-    "url": "./files/",
-    "icon": "📁"
-  },
-  {
-    "name": "Example: Website",
-    "url": "https://example.com",
+    "name": "DragonX V2 International",
+    "url": "DragonX_V2_International.html",
     "icon": "🌐"
+  },
+  {
+    "name": "OddFuture Client",
+    "url": "OddFuture Client.html",
+    "icon": "ඞ"
+   },
+  {
+    "name": "OddFuture Client",
+    "url": "OddFuture Client.html",
+    "icon": "ඞ"
   }
 ]
